@@ -1,0 +1,39 @@
+body {
+    display: block;
+    margin: 8px;
+}
+.container {
+    height: 1000px;
+    background-color: lightgreen;
+}
+
+.div {
+    width: 150px;
+    height: 150px;
+    border: solid 45px yellow;
+    border-radius: 5030px;
+    border-color: yellow transparent yellow transparent;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+.first {
+    width: 300px;
+    height: 300px;
+    border: solid 35px red;
+    border-radius: 5000px;
+    border-color: red transparent red transparent;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+.xyz {
+    width: 75px;
+    height: 75px;
+    border: 15px solid black;
+    border-radius: 5000px;
+    border-color: transparent black transparent black;
+    margin: auto;
+}
